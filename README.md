@@ -13,6 +13,7 @@ Data made available on this repository is coming from websites https://www.mohfw
 - **district_level_latest.csv:** The current Districtwise numbers situation
 - **ICMR_tests_day_wise.csv:** Number of tests reported by ICMR
 - **tests_state_wise.csv:** Number of tests conducted by the state, ventilators and hospital bed information reported in state bulletins
+
 ---
 ### MoHFW Data
 - **complete_data.csv:** Statewise Latest Total Confirmed, Recovered and Deceased Cases
