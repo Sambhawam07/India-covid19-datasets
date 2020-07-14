@@ -16,11 +16,10 @@ Data made available on this repository is coming from websites https://www.mohfw
 
 ---
 ### MoHFW Data
-
 - **complete_data.csv:** Statewise Latest Total Confirmed, Recovered and Deceased Cases
+
 ---
 ### Worldometer Data
-
 - **country_wise_latest.csv:** Countries latest Confirmed, Recovered and Deceased Cases
 
 ---
