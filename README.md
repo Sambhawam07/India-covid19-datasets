@@ -10,7 +10,7 @@ Data made available on this repository is coming from websites https://www.mohfw
 - **nation_level_daily.csv:** Time series of Confirmed, Recovered and Deceased cases
 - **statewise_daily.csv:** Statewise timeseries of Confirmed, Recovered  and Deceased numbers
 - **pivot_statewise_daily.csv:** Statewise Pivoted timeseries of Confirmed, Recovered and Deceased numbers
-- **district_level_latest.csv:** The current Districtwise numbers situation
+- **district_level_latest.csv:** The current Districtwise Covid Cases
 - **ICMR_tests_day_wise.csv:** Number of tests reported by ICMR
 - **tests_state_wise.csv:** Number of tests conducted by the state, ventilators and hospital bed information reported in state bulletins
 
