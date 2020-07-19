@@ -448,6 +448,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 16/07/2020,Bihar,347457.0,Tested,21558.0,,,,,,,,,,,,,,,,https://twitter.com/PIB_Patna/status/1283728191794733056,,,6.20%,2.91,2907.0,16,119520000.0
 17/07/2020,Bihar,357730.0,Tested,23300.0,,,,,,,,,,,,,,,,https://twitter.com/PIB_Patna/status/1284085145780158464,,,6.51%,2.99,2993.0,15,119520000.0
 18/07/2020,Bihar,368232.0,Tested,24967.0,,,,,,,,,,,,,,,,https://twitter.com/PIB_Patna/status/1284453605596991488,,,6.78%,3.08,3081.0,15,119520000.0
+19/07/2020,Bihar,,,,,,,,,,,,,,,,,,,,,,,,,,
 02/04/2020,Chandigarh,124.0,Tested,18.0,98,8.0,,,,,,,,,,,,,,http://chdcovid19.in/,,,14.52%,0.11,105.0,7,1179000.0
 08/04/2020,Chandigarh,184.0,Tested,18.0,162,,,,,,,,,,,,,,,http://chdcovid19.in/,,,9.78%,0.16,156.0,10,1179000.0
 10/04/2020,Chandigarh,223.0,Tested,19.0,199,4.0,,,,,,,,,,,,,,http://chdcovid19.in/,,,8.52%,0.19,189.0,12,1179000.0
@@ -548,6 +549,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 16/07/2020,Chandigarh,10244.0,Tested,635.0,9560,47.0,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1182,http://chdcovid19.in/,,6.20%,8.69,8689.0,16,1179000.0
 17/07/2020,Chandigarh,10457.0,Tested,660.0,9744,51.0,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1196,http://chdcovid19.in/,,6.31%,8.87,8869.0,16,1179000.0
 18/07/2020,Chandigarh,10773.0,Tested,691.0,10024,56.0,,,,,,,,,,,,,,https://twitter.com/DDnewschd/status/1284477010455097344?s=20,http://chdcovid19.in/,,,,,,
+19/07/2020,Chandigarh,,,,,,,,,,,,,,,,,,,,,,,,,,
 02/04/2020,Chhattisgarh,1232.0,Tested,9.0,921,302.0,,,,,,,,,,,,,,http://www.cghealth.nic.in/cghealth17/,,,0.73%,0.04,43.0,137,28724000.0
 10/04/2020,Chhattisgarh,3473.0,Tested,18.0,3322,133.0,,,,,,,,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHINDI_10042020.pdf,,,0.52%,0.12,121.0,193,28724000.0
 11/04/2020,Chhattisgarh,3858.0,Tested,18.0,3503,337.0,,,,,,,,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/RevisedMediaBulletinHINDI_11042020.pdf,,,0.47%,0.13,134.0,214,28724000.0
@@ -1435,7 +1437,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 16/07/2020,Jharkhand,203279.0,Tested,4783.0,198496,,,7869.0,Centre,4306.0,,,,,,,,,,https://twitter.com/FOBGumla/status/1283814695686664197?s=20,,,2.35%,5.43,5435.0,43,37403000.0
 17/07/2020,Jharkhand,208492.0,Tested,5096.0,203396,,,7869.0,Centre,4306.0,,,,,,,,,,https://twitter.com/FOBGumla/status/1284174034364624897?s=20,,,2.44%,5.57,5574.0,41,37403000.0
 18/07/2020,Jharkhand,212299.0,Tested,5385.0,206914,,,7869.0,Centre,4306.0,,,,,,,,,,https://twitter.com/FOBGumla/status/1284546469836369920?s=20,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19/07/2020,Jharkhand,,,,,,,,,,,,,,,,,,,,,,,,,,
 03/04/2020,Karnataka,4587.0,Tested,128.0,4281,178.0,,,,,,,,,,,,,17321.0,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/03-04-2020(English).pdf,,,2.79%,0.07,70.0,36,65798000.0
 07/04/2020,Karnataka,6580.0,Tested,175.0,5942,,,,,,,,1540.0,250.0,130.0,,,,17321.0,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/07-04-2020(English).pdf,,,2.66%,0.1,100.0,38,65798000.0
 08/04/2020,Karnataka,6967.0,Tested,181.0,6473,,,,,,,,,,,,,,17321.0,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/08-04-2020(English).pdf,,,2.60%,0.11,106.0,38,65798000.0
@@ -1978,7 +1980,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 12/07/2020,Manipur,63534.0,Reports Received,1609.0,,,18595.0,1826.0,Government,16769.0,,,,,,,,,,https://twitter.com/DiprManipur/status/1282348457802387456?s=20,http://nrhmmanipur.org/,,2.53%,20.48,20475.0,39,3103000.0
 15/07/2020,Manipur,65866.0,Reports Received,1700.0,,,18877.0,1453.0,Government,17424.0,,,,,,,,,,https://twitter.com/DiprManipur/status/1283406666831065088?s=20,http://nrhmmanipur.org/,,2.58%,21.23,21227.0,39,3103000.0
 17/07/2020,Manipur,68554.0,Reports Received,1800.0,,,19200.0,1324.0,Government,17876.0,,,,,,,,,,https://twitter.com/DiprManipur/status/1284149394602749957?s=20,http://nrhmmanipur.org/,,2.63%,22.09,22093.0,38,3103000.0
-18/07/2020,Manipur,70195.0,Reports Received,1891.0,,,19270.0,1314.0,Government,17956.0,,,,,,,,,,,http://nrhmmanipur.org/,,2.69%,22.62,22622.0,37,3103000.0
+18/07/2020,Manipur,70195.0,Reports Received,1891.0,,,19270.0,1314.0,Government,17956.0,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1221,http://nrhmmanipur.org/,,2.69%,22.62,22622.0,37,3103000.0
 19/07/2020,Manipur,,,,,,,,,,,,,,,,,,,,,,,,,,
 16/04/2020,Meghalaya,552.0,Tested,7.0,299,246.0,,,,,,,,,,,,,,https://t.me/indiacovid/2463,,,1.27%,0.17,171.0,79,3224000.0
 17/04/2020,Meghalaya,617.0,Tested,9.0,541,,,,,,,,,,,,,,,http://meghalaya.gov.in/megcms/sites/default/files/press_release/CM%20Media%20Brief_0.pdf,,,1.46%,0.19,191.0,69,3224000.0
@@ -2059,7 +2061,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 15/07/2020,Meghalaya,24942.0,Tested,346.0,,,,,,,,,,29.0,20.0,256379.0,216086.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/1175,https://corona.meghalayagov.in/,,1.39%,7.74,7736.0,72,3224000.0
 16/07/2020,Meghalaya,25263.0,Tested,377.0,24597,289.0,,,,,,,,29.0,20.0,256379.0,216086.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/1187,https://corona.meghalayagov.in/,http://meghalayaonline.gov.in/covid/login.htm,1.49%,7.84,7836.0,67,3224000.0
 17/07/2020,Meghalaya,25981.0,Tested,403.0,25178,400.0,,,,,,,,29.0,20.0,256379.0,216086.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/1199,https://corona.meghalayagov.in/,http://meghalayaonline.gov.in/covid/login.htm,1.55%,8.06,8059.0,64,3224000.0
-18/07/2020,Meghalaya,26940.0,Tested,418.0,26000,522.0,,,,,,,,29.0,20.0,256379.0,216086.0,,,,https://corona.meghalayagov.in/,http://meghalayaonline.gov.in/covid/login.htm,1.55%,8.36,8356.0,64,3224000.0
+18/07/2020,Meghalaya,26940.0,Tested,418.0,26000,522.0,,,,,,,,29.0,20.0,256379.0,216086.0,,,https://t.me/Covid19india_Auxiliary_Test_Data/1214,https://corona.meghalayagov.in/,http://meghalayaonline.gov.in/covid/login.htm,1.55%,8.36,8356.0,64,3224000.0
 19/07/2020,Meghalaya,,,,,,,,,,,,,,,,,,,,,,,,,,
 06/04/2020,Mizoram,58.0,Samples Collected,1.0,0,0.0,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-642020,,,1.72%,0.05,49.0,58,1192000.0
 07/04/2020,Mizoram,58.0,Samples Collected,1.0,0,0.0,,,,,,,,,,,,,,https://health.mizoram.gov.in/post/covid-19-bulletin-date-742020,,,1.72%,0.05,49.0,58,1192000.0
@@ -2562,7 +2564,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 15/07/2020,Punjab,421593.0,Samples Sent,8799.0,,,,,,,46.0,9.0,,,,,,,,http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2015-07-2020.pdf,http://diprpunjab.gov.in/,http://pbhealth.gov.in/media-bulletin_July.htm,2.09%,14.12,14119.0,48,29859000.0
 16/07/2020,Punjab,429832.0,Samples Sent,9094.0,,,,,,,58.0,7.0,,,,,,,,http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2016-07-2020_0.pdf,http://diprpunjab.gov.in/,http://pbhealth.gov.in/media-bulletin_July.htm,2.12%,14.4,14395.0,47,29859000.0
 17/07/2020,Punjab,438793.0,Samples Sent,9442.0,,,,,,,61.0,7.0,,,,,,,,http://diprpunjab.gov.in/sites/default/files/Media%20Bulletin%2017-07-2020.pdf,http://diprpunjab.gov.in/,http://pbhealth.gov.in/media-bulletin_July.htm,2.15%,14.7,14696.0,46,29859000.0
-18/07/2020,Punjab,450732.0,Samples Sent,9792.0,,,,,,,63.0,9.0,,,,,,,,,http://diprpunjab.gov.in/,http://pbhealth.gov.in/media-bulletin_July.htm,2.17%,15.1,15095.0,46,29859000.0
+18/07/2020,Punjab,450732.0,Samples Sent,9792.0,,,,,,,63.0,9.0,,,,,,,,http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2018-07-2020.pdf,http://diprpunjab.gov.in/,http://pbhealth.gov.in/media-bulletin_July.htm,2.17%,15.1,15095.0,46,29859000.0
 19/07/2020,Punjab,,,,,,,,,,,,,,,,,,,,,,,,,,
 05/04/2020,Rajasthan,12279.0,Reports Received,260.0,11439,580.0,,,,,,,,,,,,,,http://www.rajswasthya.nic.in/,,,2.12%,0.16,159.0,47,77264000.0
 07/04/2020,Rajasthan,17638.0,Reports Received,363.0,16401,874.0,,,,,,,,,,,,,,,,,2.06%,0.23,228.0,49,77264000.0
@@ -2667,7 +2669,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 15/07/2020,Rajasthan,1123902.0,Reports Received,26437.0,1091930,5535.0,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1176,http://rajswasthya.nic.in/,,2.35%,14.55,14546.0,43,77264000.0
 16/07/2020,Rajasthan,1151952.0,Reports Received,27174.0,1119188,5590.0,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1186,http://rajswasthya.nic.in/,,2.36%,14.91,14909.0,42,77264000.0
 17/07/2020,Rajasthan,1175379.0,Reports Received,27789.0,1142148,5442.0,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1204,http://rajswasthya.nic.in/,,2.36%,15.21,15213.0,42,77264000.0
-18/07/2020,Rajasthan,1204676.0,Reports Received,28500.0,1169662,6514.0,,,,,,,,,,,,,,,http://rajswasthya.nic.in/,,2.37%,15.59,15592.0,42,77264000.0
+18/07/2020,Rajasthan,1204676.0,Reports Received,28500.0,1169662,6514.0,,,,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1213,http://rajswasthya.nic.in/,,2.37%,15.59,15592.0,42,77264000.0
 19/07/2020,Rajasthan,,,,,,,,,,,,,,,,,,,,,,,,,,
 04/05/2020,Sikkim,170.0,Samples Sent,,169,1.0,,,,,,,,,,,,,,https://covid19sikkim.org/,,,0.00%,0.26,256.0,,664000.0
 05/05/2020,Sikkim,181.0,Samples Sent,0.0,171,10.0,,11.0,,,,,,,,,,,,https://covid19sikkim.org/,,,0.00%,0.27,273.0,,664000.0
@@ -2967,7 +2969,7 @@ Updated On,State,Total Tested,Tag (Total Tested),Positive,Negative,Unconfirmed,C
 15/07/2020,Tripura,92313.0,Tested,2281.0,90032,,,4960.0,All Included,,,,,,,,,,,https://twitter.com/BjpBiplab/status/1283468234314747904?s=20,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,2.47%,23.12,23124.0,40,3992000.0
 16/07/2020,Tripura,95328.0,Tested,2379.0,,,,,,,,,,,,,,,,https://twitter.com/BjpBiplab/status/1283831554603532290?s=20,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,2.50%,23.88,23880.0,40,3992000.0
 17/07/2020,Tripura,97471.0,Tested,2497.0,95092,,,4904.0,All Included,,,,,,,,,,,https://t.me/Covid19india_Auxiliary_Test_Data/1207,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,2.56%,24.42,24417.0,39,3992000.0
-18/07/2020,Tripura,,,,,,,,,,,,,,,,,,,,,,,,,,
+18/07/2020,Tripura,105058.0,Tested,2668.0,102390,,,4813.0,All Included,,,,,,,,,,,https://twitter.com/BjpBiplab/status/1284557957363982336?s=20,https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx,,,,,,
 05/04/2020,Uttar Pradesh,5255.0,Samples Sent,278.0,4796,181.0,,,,,,,,,,,,,,WA circular :/,,,5.29%,0.02,23.0,19,224979000.0
 05/04/2020,Uttar Pradesh,5255.0,Samples Sent,278.0,4796,179.0,,3927.0,Institutional,,,,,,,,,,,,,,5.29%,0.02,23.0,19,224979000.0
 09/04/2020,Uttar Pradesh,8402.0,Samples Sent,410.0,7898,94.0,,8671.0,Institutional,,,,,,,,,,,https://t.me/c/1428198946/1789,,,4.88%,0.04,37.0,20,224979000.0
